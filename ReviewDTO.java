@@ -1,6 +1,6 @@
 package src.main.java.com.mechu.dto;
 
-public class Review {
+public class ReviewDTO {
 
 //	상호 
 	private String storeName;
