@@ -14,7 +14,7 @@ public class ReviewDTO {
 	private int cmtcount;
 //	추천수 
 	private int cmdcount;
-//	이미지
+//	사진
 	private String reviewimg;
 //	내용
 	private String review;
